@@ -1,0 +1,1 @@
+﻿Select Nome From Funcionário WHERE  Nome=Nome and Senha=Senha and Funções='Treinador'

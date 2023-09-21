@@ -1,0 +1,182 @@
+C:\Users\122197\source\repos\GrindUp miniPt\GrindUp miniPt\bin\Debug\GrindUp miniPt.exe.config
+C:\Users\122197\source\repos\GrindUp miniPt\GrindUp miniPt\bin\Debug\GrindUp miniPt.exe
+C:\Users\122197\source\repos\GrindUp miniPt\GrindUp miniPt\bin\Debug\GrindUp miniPt.pdb
+C:\Users\122197\source\repos\GrindUp miniPt\GrindUp miniPt\obj\Debug\GrindUp miniPt.csprojAssemblyReference.cache
+C:\Users\122197\source\repos\GrindUp miniPt\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form1.resources
+C:\Users\122197\source\repos\GrindUp miniPt\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Properties.Resources.resources
+C:\Users\122197\source\repos\GrindUp miniPt\GrindUp miniPt\obj\Debug\GrindUp miniPt.csproj.GenerateResource.cache
+C:\Users\122197\source\repos\GrindUp miniPt\GrindUp miniPt\obj\Debug\GrindUp miniPt.csproj.CoreCompileInputs.cache
+C:\Users\122197\source\repos\GrindUp miniPt\GrindUp miniPt\obj\Debug\GrindUp miniPt.exe
+C:\Users\122197\source\repos\GrindUp miniPt\GrindUp miniPt\obj\Debug\GrindUp miniPt.pdb
+E:\GrindUp miniPt\GrindUp miniPt\bin\Debug\GrindUp miniPt.exe.config
+E:\GrindUp miniPt\GrindUp miniPt\bin\Debug\GrindUp miniPt.exe
+E:\GrindUp miniPt\GrindUp miniPt\bin\Debug\GrindUp miniPt.pdb
+E:\GrindUp miniPt\GrindUp miniPt\obj\Debug\GrindUp miniPt.csprojAssemblyReference.cache
+E:\GrindUp miniPt\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form1.resources
+E:\GrindUp miniPt\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Properties.Resources.resources
+E:\GrindUp miniPt\GrindUp miniPt\obj\Debug\GrindUp miniPt.csproj.GenerateResource.cache
+E:\GrindUp miniPt\GrindUp miniPt\obj\Debug\GrindUp miniPt.csproj.CoreCompileInputs.cache
+E:\GrindUp miniPt\GrindUp miniPt\obj\Debug\GrindUp miniPt.exe
+E:\GrindUp miniPt\GrindUp miniPt\obj\Debug\GrindUp miniPt.pdb
+E:\GrindUp miniPt\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form2.resources
+E:\GrindUp miniPt\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form3.resources
+C:\Users\122197\Desktop\GrindUp miniPt\GrindUp miniPt\bin\Debug\GrindUp miniPt.exe.config
+C:\Users\122197\Desktop\GrindUp miniPt\GrindUp miniPt\bin\Debug\GrindUp miniPt.exe
+C:\Users\122197\Desktop\GrindUp miniPt\GrindUp miniPt\bin\Debug\GrindUp miniPt.pdb
+C:\Users\122197\Desktop\GrindUp miniPt\GrindUp miniPt\obj\Debug\GrindUp miniPt.csprojAssemblyReference.cache
+C:\Users\122197\Desktop\GrindUp miniPt\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form1.resources
+C:\Users\122197\Desktop\GrindUp miniPt\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form2.resources
+C:\Users\122197\Desktop\GrindUp miniPt\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form3.resources
+C:\Users\122197\Desktop\GrindUp miniPt\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Properties.Resources.resources
+C:\Users\122197\Desktop\GrindUp miniPt\GrindUp miniPt\obj\Debug\GrindUp miniPt.csproj.GenerateResource.cache
+C:\Users\122197\Desktop\GrindUp miniPt\GrindUp miniPt\obj\Debug\GrindUp miniPt.csproj.CoreCompileInputs.cache
+C:\Users\122197\Desktop\GrindUp miniPt\GrindUp miniPt\obj\Debug\GrindUp miniPt.exe
+C:\Users\122197\Desktop\GrindUp miniPt\GrindUp miniPt\obj\Debug\GrindUp miniPt.pdb
+C:\Users\122197\Desktop\GrindUp miniPt\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form4.resources
+C:\Users\122197\Desktop\GrindUp miniPt\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form5.resources
+Z:\GrindUp miniPt - Cópia\GrindUp miniPt\obj\Debug\GrindUp miniPt.csprojAssemblyReference.cache
+Z:\GrindUp miniPt - Cópia\GrindUp miniPt\obj\Debug\GrindUp miniPt.exe
+Z:\GrindUp miniPt - Cópia\GrindUp miniPt\obj\Debug\GrindUp miniPt.pdb
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia\GrindUp miniPt\bin\Debug\GrindUp miniPt.exe.config
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia\GrindUp miniPt\bin\Debug\GrindUp miniPt.exe
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia\GrindUp miniPt\bin\Debug\GrindUp miniPt.pdb
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form1.resources
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form2.resources
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form3.resources
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form4.resources
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form5.resources
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Properties.Resources.resources
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia\GrindUp miniPt\obj\Debug\GrindUp miniPt.csproj.GenerateResource.cache
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia\GrindUp miniPt\obj\Debug\GrindUp miniPt.csproj.CoreCompileInputs.cache
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia\GrindUp miniPt\obj\Debug\GrindUp miniPt.exe
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia\GrindUp miniPt\obj\Debug\GrindUp miniPt.pdb
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia\GrindUp miniPt\obj\Debug\GrindUp miniPt.csproj.AssemblyReference.cache
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia\GrindUp miniPt\obj\Debug\GrindUp miniPt.csproj.SuggestedBindingRedirects.cache
+Z:\GrindUp miniPt - Cópia - Cópia\GrindUp miniPt\obj\Debug\GrindUp miniPt.csproj.AssemblyReference.cache
+Z:\GrindUp miniPt - Cópia - Cópia\GrindUp miniPt\obj\Debug\GrindUp miniPt.csproj.SuggestedBindingRedirects.cache
+Z:\GrindUp miniPt - Cópia - Cópia\GrindUp miniPt\obj\Debug\GrindUp miniPt.exe
+Z:\GrindUp miniPt - Cópia - Cópia\GrindUp miniPt\obj\Debug\GrindUp miniPt.pdb
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia - Cópia\GrindUp miniPt\bin\Debug\GrindUp miniPt.exe.config
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia - Cópia\GrindUp miniPt\bin\Debug\GrindUp miniPt.exe
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia - Cópia\GrindUp miniPt\bin\Debug\GrindUp miniPt.pdb
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia - Cópia\GrindUp miniPt\obj\Debug\GrindUp miniPt.csproj.AssemblyReference.cache
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia - Cópia\GrindUp miniPt\obj\Debug\GrindUp miniPt.csproj.SuggestedBindingRedirects.cache
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia - Cópia\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form1.resources
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia - Cópia\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form2.resources
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia - Cópia\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form3.resources
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia - Cópia\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form4.resources
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia - Cópia\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form5.resources
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia - Cópia\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Properties.Resources.resources
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia - Cópia\GrindUp miniPt\obj\Debug\GrindUp miniPt.csproj.GenerateResource.cache
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia - Cópia\GrindUp miniPt\obj\Debug\GrindUp miniPt.csproj.CoreCompileInputs.cache
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia - Cópia\GrindUp miniPt\obj\Debug\GrindUp miniPt.exe
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia - Cópia\GrindUp miniPt\obj\Debug\GrindUp miniPt.pdb
+C:\Users\122197\Desktop\GrindUp miniPt - Cópia - Cópia\GrindUp miniPt\bin\Debug\GrindUp miniPt.exe.config
+C:\Users\122197\Desktop\GrindUp miniPt - Cópia - Cópia\GrindUp miniPt\bin\Debug\GrindUp miniPt.exe
+C:\Users\122197\Desktop\GrindUp miniPt - Cópia - Cópia\GrindUp miniPt\bin\Debug\GrindUp miniPt.pdb
+C:\Users\122197\Desktop\GrindUp miniPt - Cópia - Cópia\GrindUp miniPt\obj\Debug\GrindUp miniPt.csproj.AssemblyReference.cache
+C:\Users\122197\Desktop\GrindUp miniPt - Cópia - Cópia\GrindUp miniPt\obj\Debug\GrindUp miniPt.csproj.SuggestedBindingRedirects.cache
+C:\Users\122197\Desktop\GrindUp miniPt - Cópia - Cópia\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form1.resources
+C:\Users\122197\Desktop\GrindUp miniPt - Cópia - Cópia\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form2.resources
+C:\Users\122197\Desktop\GrindUp miniPt - Cópia - Cópia\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form3.resources
+C:\Users\122197\Desktop\GrindUp miniPt - Cópia - Cópia\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form4.resources
+C:\Users\122197\Desktop\GrindUp miniPt - Cópia - Cópia\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form5.resources
+C:\Users\122197\Desktop\GrindUp miniPt - Cópia - Cópia\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Properties.Resources.resources
+C:\Users\122197\Desktop\GrindUp miniPt - Cópia - Cópia\GrindUp miniPt\obj\Debug\GrindUp miniPt.csproj.GenerateResource.cache
+C:\Users\122197\Desktop\GrindUp miniPt - Cópia - Cópia\GrindUp miniPt\obj\Debug\GrindUp miniPt.csproj.CoreCompileInputs.cache
+C:\Users\122197\Desktop\GrindUp miniPt - Cópia - Cópia\GrindUp miniPt\obj\Debug\GrindUp miniPt.exe
+C:\Users\122197\Desktop\GrindUp miniPt - Cópia - Cópia\GrindUp miniPt\obj\Debug\GrindUp miniPt.pdb
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia - Cópia - Cópia\GrindUp miniPt\bin\Debug\GrindUp miniPt.exe.config
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia - Cópia - Cópia\GrindUp miniPt\bin\Debug\GrindUp miniPt.exe
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia - Cópia - Cópia\GrindUp miniPt\bin\Debug\GrindUp miniPt.pdb
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia - Cópia - Cópia\GrindUp miniPt\obj\Debug\GrindUp miniPt.csproj.AssemblyReference.cache
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia - Cópia - Cópia\GrindUp miniPt\obj\Debug\GrindUp miniPt.csproj.SuggestedBindingRedirects.cache
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia - Cópia - Cópia\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form1.resources
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia - Cópia - Cópia\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form2.resources
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia - Cópia - Cópia\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form3.resources
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia - Cópia - Cópia\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form4.resources
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia - Cópia - Cópia\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form5.resources
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia - Cópia - Cópia\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Properties.Resources.resources
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia - Cópia - Cópia\GrindUp miniPt\obj\Debug\GrindUp miniPt.csproj.GenerateResource.cache
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia - Cópia - Cópia\GrindUp miniPt\obj\Debug\GrindUp miniPt.csproj.CoreCompileInputs.cache
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia - Cópia - Cópia\GrindUp miniPt\obj\Debug\GrindUp miniPt.exe
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia - Cópia - Cópia\GrindUp miniPt\obj\Debug\GrindUp miniPt.pdb
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia - Cópia - Cópia\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form6.resources
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia - Cópia - Cópia\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form8.resources
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia - Cópia - Cópia\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form9.resources
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia - Cópia - Cópia - Cópia\GrindUp miniPt\bin\Debug\GrindUp miniPt.exe.config
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia - Cópia - Cópia - Cópia\GrindUp miniPt\bin\Debug\GrindUp miniPt.exe
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia - Cópia - Cópia - Cópia\GrindUp miniPt\bin\Debug\GrindUp miniPt.pdb
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia - Cópia - Cópia - Cópia\GrindUp miniPt\obj\Debug\GrindUp miniPt.csproj.AssemblyReference.cache
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia - Cópia - Cópia - Cópia\GrindUp miniPt\obj\Debug\GrindUp miniPt.csproj.SuggestedBindingRedirects.cache
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia - Cópia - Cópia - Cópia\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form1.resources
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia - Cópia - Cópia - Cópia\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form2.resources
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia - Cópia - Cópia - Cópia\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form3.resources
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia - Cópia - Cópia - Cópia\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form4.resources
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia - Cópia - Cópia - Cópia\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form5.resources
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia - Cópia - Cópia - Cópia\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form6.resources
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia - Cópia - Cópia - Cópia\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form8.resources
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia - Cópia - Cópia - Cópia\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form9.resources
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia - Cópia - Cópia - Cópia\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Properties.Resources.resources
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia - Cópia - Cópia - Cópia\GrindUp miniPt\obj\Debug\GrindUp miniPt.csproj.GenerateResource.cache
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia - Cópia - Cópia - Cópia\GrindUp miniPt\obj\Debug\GrindUp miniPt.csproj.CoreCompileInputs.cache
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia - Cópia - Cópia - Cópia\GrindUp miniPt\obj\Debug\GrindUp miniPt.exe
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia - Cópia - Cópia - Cópia\GrindUp miniPt\obj\Debug\GrindUp miniPt.pdb
+C:\Users\121780\Desktop\GrindUp miniPt - Cópia - Cópia - Cópia - Cópia\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form10.resources
+C:\Users\121780\Desktop\GrindUp miniPt atualizado!\GrindUp miniPt\bin\Debug\GrindUp miniPt.exe.config
+C:\Users\121780\Desktop\GrindUp miniPt atualizado!\GrindUp miniPt\bin\Debug\GrindUp miniPt.exe
+C:\Users\121780\Desktop\GrindUp miniPt atualizado!\GrindUp miniPt\bin\Debug\GrindUp miniPt.pdb
+C:\Users\121780\Desktop\GrindUp miniPt atualizado!\GrindUp miniPt\obj\Debug\GrindUp miniPt.csproj.AssemblyReference.cache
+C:\Users\121780\Desktop\GrindUp miniPt atualizado!\GrindUp miniPt\obj\Debug\GrindUp miniPt.csproj.SuggestedBindingRedirects.cache
+C:\Users\121780\Desktop\GrindUp miniPt atualizado!\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form1.resources
+C:\Users\121780\Desktop\GrindUp miniPt atualizado!\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form10.resources
+C:\Users\121780\Desktop\GrindUp miniPt atualizado!\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form2.resources
+C:\Users\121780\Desktop\GrindUp miniPt atualizado!\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form3.resources
+C:\Users\121780\Desktop\GrindUp miniPt atualizado!\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form4.resources
+C:\Users\121780\Desktop\GrindUp miniPt atualizado!\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form5.resources
+C:\Users\121780\Desktop\GrindUp miniPt atualizado!\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form6.resources
+C:\Users\121780\Desktop\GrindUp miniPt atualizado!\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form8.resources
+C:\Users\121780\Desktop\GrindUp miniPt atualizado!\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form9.resources
+C:\Users\121780\Desktop\GrindUp miniPt atualizado!\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Properties.Resources.resources
+C:\Users\121780\Desktop\GrindUp miniPt atualizado!\GrindUp miniPt\obj\Debug\GrindUp miniPt.csproj.GenerateResource.cache
+C:\Users\121780\Desktop\GrindUp miniPt atualizado!\GrindUp miniPt\obj\Debug\GrindUp miniPt.csproj.CoreCompileInputs.cache
+C:\Users\121780\Desktop\GrindUp miniPt atualizado!\GrindUp miniPt\obj\Debug\GrindUp miniPt.exe
+C:\Users\121780\Desktop\GrindUp miniPt atualizado!\GrindUp miniPt\obj\Debug\GrindUp miniPt.pdb
+C:\Users\121780\Desktop\GrindUp miniPt atualizado! - Cópia\GrindUp miniPt\obj\Debug\GrindUp miniPt.csproj.AssemblyReference.cache
+C:\Users\121780\Desktop\GrindUp miniPt atualizado! - Cópia\GrindUp miniPt\obj\Debug\GrindUp miniPt.csproj.SuggestedBindingRedirects.cache
+C:\Users\121780\Desktop\GrindUp miniPt atualizado! - Cópia\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form1.resources
+C:\Users\121780\Desktop\GrindUp miniPt atualizado! - Cópia\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form10.resources
+C:\Users\121780\Desktop\GrindUp miniPt atualizado! - Cópia\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form2.resources
+C:\Users\121780\Desktop\GrindUp miniPt atualizado! - Cópia\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form3.resources
+C:\Users\121780\Desktop\GrindUp miniPt atualizado! - Cópia\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form4.resources
+C:\Users\121780\Desktop\GrindUp miniPt atualizado! - Cópia\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form5.resources
+C:\Users\121780\Desktop\GrindUp miniPt atualizado! - Cópia\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form6.resources
+C:\Users\121780\Desktop\GrindUp miniPt atualizado! - Cópia\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form8.resources
+C:\Users\121780\Desktop\GrindUp miniPt atualizado! - Cópia\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form9.resources
+C:\Users\121780\Desktop\GrindUp miniPt atualizado! - Cópia\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Properties.Resources.resources
+C:\Users\121780\Desktop\GrindUp miniPt atualizado! - Cópia\GrindUp miniPt\obj\Debug\GrindUp miniPt.csproj.GenerateResource.cache
+C:\Users\121780\Desktop\GrindUp miniPt atualizado! - Cópia\GrindUp miniPt\obj\Debug\GrindUp miniPt.csproj.CoreCompileInputs.cache
+C:\Users\121780\Desktop\GrindUp miniPt atualizado! - Cópia\GrindUp miniPt\obj\Debug\GrindUp miniPt.exe
+C:\Users\121780\Desktop\GrindUp miniPt atualizado! - Cópia\GrindUp miniPt\obj\Debug\GrindUp miniPt.pdb
+C:\Users\121780\Desktop\GrindUp miniPt atualizado! - Cópia\GrindUp miniPt\bin\Debug\GrindUp miniPt.exe.config
+C:\Users\121780\Desktop\GrindUp miniPt atualizado! - Cópia\GrindUp miniPt\bin\Debug\GrindUp miniPt.exe
+C:\Users\121780\Desktop\GrindUp miniPt atualizado! - Cópia\GrindUp miniPt\bin\Debug\GrindUp miniPt.pdb
+Z:\GrindUp miniPt atualizado! - Cópia\GrindUp miniPt\bin\Debug\GrindUp miniPt.exe.config
+Z:\GrindUp miniPt atualizado! - Cópia\GrindUp miniPt\bin\Debug\GrindUp miniPt.exe
+Z:\GrindUp miniPt atualizado! - Cópia\GrindUp miniPt\bin\Debug\GrindUp miniPt.pdb
+Z:\GrindUp miniPt atualizado! - Cópia\GrindUp miniPt\obj\Debug\GrindUp miniPt.csproj.AssemblyReference.cache
+Z:\GrindUp miniPt atualizado! - Cópia\GrindUp miniPt\obj\Debug\GrindUp miniPt.csproj.SuggestedBindingRedirects.cache
+Z:\GrindUp miniPt atualizado! - Cópia\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form1.resources
+Z:\GrindUp miniPt atualizado! - Cópia\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form10.resources
+Z:\GrindUp miniPt atualizado! - Cópia\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form2.resources
+Z:\GrindUp miniPt atualizado! - Cópia\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form3.resources
+Z:\GrindUp miniPt atualizado! - Cópia\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form4.resources
+Z:\GrindUp miniPt atualizado! - Cópia\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form5.resources
+Z:\GrindUp miniPt atualizado! - Cópia\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form6.resources
+Z:\GrindUp miniPt atualizado! - Cópia\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form8.resources
+Z:\GrindUp miniPt atualizado! - Cópia\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Form9.resources
+Z:\GrindUp miniPt atualizado! - Cópia\GrindUp miniPt\obj\Debug\GrindUp_miniPt.Properties.Resources.resources
+Z:\GrindUp miniPt atualizado! - Cópia\GrindUp miniPt\obj\Debug\GrindUp miniPt.csproj.GenerateResource.cache
+Z:\GrindUp miniPt atualizado! - Cópia\GrindUp miniPt\obj\Debug\GrindUp miniPt.csproj.CoreCompileInputs.cache
+Z:\GrindUp miniPt atualizado! - Cópia\GrindUp miniPt\obj\Debug\GrindUp miniPt.exe
+Z:\GrindUp miniPt atualizado! - Cópia\GrindUp miniPt\obj\Debug\GrindUp miniPt.pdb
